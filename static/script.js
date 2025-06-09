@@ -1,0 +1,1 @@
+// JS será adaptado aquí
